@@ -1,6 +1,6 @@
 CS3790 Lab Assignment3---The server that computes the prime number by communication of pipe
 Zhihong Liu(5088806)
-25/12/2024
+25/10/2024
 
 1.The source code file should be compiled under UNIX environment
 2.The server will ignore the "empty user request",and the client needs to be restarted manually
